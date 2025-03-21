@@ -1,0 +1,4 @@
+﻿  text.c
+D:\C语言练习新篇\C_code\Test_6\Test_6\text.c(6,2): warning C4013: “system”未定义；假设外部返回 int
+D:\C语言练习新篇\C_code\Test_6\Test_6\text.c(22,7): warning C4013: “strcmp”未定义；假设外部返回 int
+  Test_6.vcxproj -> D:\C语言练习新篇\C_code\Test_6\x64\Debug\Test_6.exe

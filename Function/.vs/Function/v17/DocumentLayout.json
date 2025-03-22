@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u8BED\u8A00\u7EC3\u4E60\u65B0\u7BC7\\C_code\\Function\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAB80FD-2B8C-492D-B33D-2A866442BE0A}|Function\\Function.vcxproj|D:\\C\u8BED\u8A00\u7EC3\u4E60\u65B0\u7BC7\\C_code\\Function\\Function\\text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7CAB80FD-2B8C-492D-B33D-2A866442BE0A}|Function\\Function.vcxproj|solutionrelative:Function\\text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "text.c",
+              "DocumentMoniker": "D:\\C\u8BED\u8A00\u7EC3\u4E60\u65B0\u7BC7\\C_code\\Function\\Function\\text.c",
+              "RelativeDocumentMoniker": "Function\\text.c",
+              "ToolTip": "D:\\C\u8BED\u8A00\u7EC3\u4E60\u65B0\u7BC7\\C_code\\Function\\Function\\text.c",
+              "RelativeToolTip": "Function\\text.c",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAqwJ8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-21T02:39:53.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
